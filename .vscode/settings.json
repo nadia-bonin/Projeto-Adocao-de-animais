@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "animal": "cpp",
+        "animal_cabeçalho.h": "c",
+        "animal.h": "c",
+        "stdlib.h": "c",
+        "cliente.h": "c",
+        "config.h": "c"
+    }
+}
