@@ -15,10 +15,6 @@ O programa permite cadastrar clientes e animais, consultar informações, listar
 - ❌ **Excluir um animal** do sistema.  
 - ❤️ **Escolher e adotar um animal**, vinculando a um cliente.  
 
-## 🛠️ Tecnologias Utilizadas
-- Linguagem: **C** (ou especifique a usada no desenvolvimento)  
-- Ambiente: **Visual Studio**  
-
 ## ⚙️ Lógica do Sistema
 - **Estruturas de dados** foram utilizadas para organizar clientes e animais.  
 - **Listagem numérica** facilita a escolha do animal na hora da adoção.  
